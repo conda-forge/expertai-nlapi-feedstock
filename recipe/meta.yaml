@@ -46,5 +46,6 @@ about:
 
 extra:
   recipe-maintainers:
+    - avarone-github
     - marcobellei-eai
     - acapitani
