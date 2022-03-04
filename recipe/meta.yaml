@@ -1,5 +1,5 @@
 {% set name = "expertai-nlapi" %}
-{% set version = "2.4.0" %}
+{% set version = "2.4.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/expertai-nlapi-{{ version }}.tar.gz
-  sha256: f46e0769c53a515c6e79861daf4cd1f867f4ec4bf8d7b67770bcc2b6afd11293
+  sha256: 8cd63e6b52ffdf6f848b8214e99aee7d9450b970b7728d1cdd94f83e3a088155
 
 build:
   number: 0
